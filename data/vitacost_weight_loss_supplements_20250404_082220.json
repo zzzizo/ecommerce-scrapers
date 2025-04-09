@@ -1,0 +1,32 @@
+[
+    {
+        "source": "vitacost",
+        "product_id": "error_extraction",
+        "title": "Error extracting products from Vitacost page 1",
+        "brand": "N/A",
+        "price": "N/A",
+        "original_price": "",
+        "rating": "N/A",
+        "reviews": "0",
+        "link": "https://www.vitacost.com/search?q=weight+loss+supplements&page=1",
+        "image_url": "",
+        "in_stock": false,
+        "search_query": "weight loss supplements",
+        "error": "Could not extract products from page"
+    },
+    {
+        "source": "vitacost",
+        "product_id": "error_extraction",
+        "title": "Error extracting products from Vitacost page 2",
+        "brand": "N/A",
+        "price": "N/A",
+        "original_price": "",
+        "rating": "N/A",
+        "reviews": "0",
+        "link": "https://www.vitacost.com/search?q=weight+loss+supplements&page=2",
+        "image_url": "",
+        "in_stock": false,
+        "search_query": "weight loss supplements",
+        "error": "Could not extract products from page"
+    }
+]

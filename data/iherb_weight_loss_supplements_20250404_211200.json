@@ -1,0 +1,15 @@
+[
+    {
+        "source": "iherb",
+        "product_id": "error_extraction",
+        "title": "Error extracting products from iHerb page 2",
+        "brand": "N/A",
+        "price": "N/A",
+        "rating": "",
+        "reviews": "0",
+        "link": "https://www.iherb.com/search?kw=weight+loss+supplements&p=2",
+        "image_url": "",
+        "search_query": "weight loss supplements",
+        "error": "Could not extract products from page"
+    }
+]
