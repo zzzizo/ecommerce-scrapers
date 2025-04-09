@@ -1,4 +1,4 @@
-echo "# E-commerce Product Scrapers
+E-commerce Product Scrapers
 
 A collection of web scrapers for extracting product data from popular e-commerce websites:
 
